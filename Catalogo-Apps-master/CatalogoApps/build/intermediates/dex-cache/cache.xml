@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_38795754173c28ba1401a29263f0955560d85aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/library-1.0.19_7ea7b3cfcd3a11fc0e0986931aeea92eab1c2e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="13031951bc445090e0ba93ed5caca5ac5cb01e75">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_afcd293fce5f5cd7f532b954ae4283ee64b37cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_7fe74363399e4714758afd47c28d8ff596e858bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Downloads/Android Studio 2.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d5b32a2a1529a72472729ee5c94779d0ce9951eb">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha2_bd43d9f3c4ba331ce7826122d6122e3ecdf76210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="c10a022be88e27050fadf000e4005e598d36423e">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/instant-run_5ffd77d04d831619efb10d755b2432271c54f4e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_4b0366fc3baaef99dc55ce9159e6b4f571cafae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_37fda9b7bbb46d57d3198e554c423b74b51b2151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Downloads/Android Studio 2.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/gson-2.2.4_b3317e7b055a66cd36ae3510680978c194783cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_29879995676ad431b26828a2e0fcfdfcbab670eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_0c4cbd7e2ca6f1ea401129de0a3f9f58f81c19f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_fc8cc927c3a6215458cc0f4f09ac150512fa5ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_376061fbfc3568848b4a72d594f5fb1d74451b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
+        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha2_0908c3871abe49b1ce4624f39028700b544f95e1.jar" />
+    </item>
+
+</items>
