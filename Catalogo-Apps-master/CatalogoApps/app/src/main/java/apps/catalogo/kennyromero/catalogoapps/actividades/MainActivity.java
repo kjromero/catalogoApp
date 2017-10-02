@@ -13,7 +13,6 @@ import android.widget.GridView;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import apps.catalogo.kennyromero.catalogoapps.Adapters.PostAdapter;
@@ -22,7 +21,6 @@ import apps.catalogo.kennyromero.catalogoapps.data.Post;
 
 public class MainActivity extends AppCompatActivity {
 
-   // public static final String URL = "https://itunes.apple.com/us/rss/topfreeapplications/limit=20/json";
     private GridView gvApps;
     private ArrayAdapter gvAdapter;
     public static List<Post> items;
@@ -80,51 +78,3 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
-
-
-
-
-/*
-
-final TextView texto = (TextView)findViewById(R.id.texto);
-
-JsonObjectRequest jsonObjReq = new JsonObjectRequest(Request.Method.GET, URL, (String)null, new Response.Listener<JSONObject>() {
-            @Override
-            public void onResponse(JSONObject response) {
-                try {
-                    JSONObject feed = response.getJSONObject("feed");
-                    JSONObject autor = feed.getJSONObject("author");
-                    JSONObject nombre = autor.getJSONObject("name");
-                    String label = nombre.getString("label");
-
-                    JSONArray entry = feed.getJSONArray("entry");
-                    for(int i = 0 ; i <= entry.length() ; i++){
-                        JSONObject obj = entry.getJSONObject(i);
-                        JSONArray app = obj.getJSONArray("im:image");
-                        for(int j = 0 ; j <= app.length() ; j++){
-                            JSONObject obj2 = app.getJSONObject(j);
-                            JSONObject atributes = obj2.getJSONObject("attributes");
-                            texto.append("Label "+obj2.getString("label")+"\n"+"Tamaño "+atributes.getString("height")+"\n\n\n");
-                        }
-                    }
-
-                    Toast.makeText(getApplicationContext(),"Funciono",Toast.LENGTH_LONG).show();
-
-
-
-                } catch (JSONException e) {
-                    e.printStackTrace();
-                }
-            }
-        }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                Toast.makeText(getApplicationContext(),"NOOO Funciono",Toast.LENGTH_LONG).show();
-            }
-        });
-
-        // Adding request to request queue
-        AppController.getInstance().addToRequestQueue(jsonObjReq);
-
- */

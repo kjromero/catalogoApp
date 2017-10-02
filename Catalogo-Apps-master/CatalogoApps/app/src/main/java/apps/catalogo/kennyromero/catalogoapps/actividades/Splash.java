@@ -8,7 +8,6 @@ import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.Menu;
 import android.widget.Toast;
 
 import com.android.volley.Request;
@@ -30,7 +29,6 @@ import java.util.TimerTask;
 import apps.catalogo.kennyromero.catalogoapps.R;
 import apps.catalogo.kennyromero.catalogoapps.data.Post;
 
-import static java.security.AccessController.getContext;
 
 public class Splash extends AppCompatActivity {
 
@@ -45,8 +43,6 @@ public class Splash extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        //Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        //setSupportActionBar(toolbar);
 
         TimerTask task = new TimerTask() {
             @Override
@@ -81,7 +77,6 @@ public class Splash extends AppCompatActivity {
             }
 
         }else{
-            Toast.makeText(getApplicationContext(), "CONECTION SUCESSFULL", Toast.LENGTH_LONG).show();
 
             getData(this);
 
@@ -131,7 +126,9 @@ public class Splash extends AppCompatActivity {
 
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < strinArray.length; i++) {
-            sb.append(strinArray[i]).append(",");
+            if (!strinArray[i].equals("category")){
+                sb.append(strinArray[i]).append(",");
+            }
         }
 
         prefsEditor.putString("arraycategories", sb.toString());

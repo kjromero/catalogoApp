@@ -1,8 +1,6 @@
 package apps.catalogo.kennyromero.catalogoapps.data;
 
-/**
- * Created by hebertromero on 6/11/16.
- */
+
 
 public class Item {
 

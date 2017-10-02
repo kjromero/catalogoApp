@@ -14,7 +14,6 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageRequest;
 import com.android.volley.toolbox.Volley;
 
-import org.w3c.dom.Text;
 
 import apps.catalogo.kennyromero.catalogoapps.R;
 
@@ -34,7 +33,6 @@ public class DetailActivity extends AppCompatActivity {
         TextView summary_app = (TextView)findViewById(R.id.summary_app);
         TextView author_app = (TextView)findViewById(R.id.author_app);
         TextView category_app = (TextView)findViewById(R.id.category_app);
-        TextView link_app = (TextView)findViewById(R.id.link_app);
 
         Intent intent = getIntent();
         Bundle extras = intent.getExtras();
@@ -43,7 +41,6 @@ public class DetailActivity extends AppCompatActivity {
         summary_app.setText(extras.getString("descrip"));
         author_app.setText(extras.getString("artist"));
         category_app.setText(extras.getString("category"));
-        link_app.setText(extras.getString("link_app"));
 
         // Crear nueva cola de peticiones
         requestQueue = Volley.newRequestQueue(getApplicationContext());

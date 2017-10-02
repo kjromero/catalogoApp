@@ -1,8 +1,6 @@
 package apps.catalogo.kennyromero.catalogoapps.data;
 
-/**
- * Created by kenny.romero on 06/02/2016.
- */
+
 public class Post {
 
     private String im_name;

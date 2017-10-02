@@ -2,130 +2,130 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
         jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_38795754173c28ba1401a29263f0955560d85aed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
+        optimize="true"
+        revision="25.0.0"
         sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/library-1.0.19_7ea7b3cfcd3a11fc0e0986931aeea92eab1c2e72.jar" />
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_656da378af7e026a78e13fefc81251e1d553f824\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\56bca0846cf6170710835e49c4b45d60a3bc9590\output\jars\classes.jar"
         jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="13031951bc445090e0ba93ed5caca5ac5cb01e75">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_afcd293fce5f5cd7f532b954ae4283ee64b37cb1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_7fe74363399e4714758afd47c28d8ff596e858bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Downloads/Android Studio 2.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="d5b32a2a1529a72472729ee5c94779d0ce9951eb">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha2_bd43d9f3c4ba331ce7826122d6122e3ecdf76210.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="c10a022be88e27050fadf000e4005e598d36423e">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/instant-run_5ffd77d04d831619efb10d755b2432271c54f4e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_4b0366fc3baaef99dc55ce9159e6b4f571cafae9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_37fda9b7bbb46d57d3198e554c423b74b51b2151.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Downloads/Android Studio 2.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/gson-2.2.4_b3317e7b055a66cd36ae3510680978c194783cee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_29879995676ad431b26828a2e0fcfdfcbab670eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
+        optimize="true"
+        revision="25.0.0"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_0c4cbd7e2ca6f1ea401129de0a3f9f58f81c19f7.jar" />
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cbcdd836d8ae1f545acee88eb96f432945df5e7\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\16f131940e223eacfddc3fe40774363c80f1c479\output\jars\classes.jar"
         jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
+        optimize="true"
+        revision="25.0.0"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_fc8cc927c3a6215458cc0f4f09ac150512fa5ceb.jar" />
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5f51f9e28b59dc7352fec2acde8741d31d7f97f\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\70b6641aaadc394d1948162e73232c2681f88fb2\output\jars\classes.jar"
         jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70e6d08b3f03ecea05e5c84c694008abba730986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\a74c153b6786390c3c76919bb33030ae770e34d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef0c8364efe2e1b72b3903d6ba588d6cbde9aa6f">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec7e5d428eab5c6fd539be7905a34e5aad61e22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd34e6eb5199f02443745f51a82fb977c220c57a">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_26b9a565ac4589de34d72c00c3ff85effcc182a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha2\constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa52b18e81a499129a981d0d8681b8b030130a6d">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha2_f0fe8f4d96e9343db2077ed346d0a7c5887b2ab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\fa6157f9170f2bc8cb0907217755aca52b01af99\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_50fb4fa4658993ce9cb358176dad85ff0d9e95be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\852ce44a52e074344306192235af42af2714511f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_376061fbfc3568848b4a72d594f5fb1d74451b8a.jar" />
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ff90cc6efaf000f2a7a87dfc21c32681176f871\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
-        <dex dex="/Users/hebertromero/Documents/kenny/Catalogo-Apps-master/CatalogoApps/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha2_0908c3871abe49b1ce4624f39028700b544f95e1.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_08074a8cdfd4b30787379c568abc148907fa2045\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_198c49e2bc299c0dbc1072859c7a1767ef1994e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\2f287f748daf80559a932beffc03b506b3231019\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6978c37c0abd7f5893d8a84415a7877a548c6f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kenny Yim\.android\build-cache\fa6157f9170f2bc8cb0907217755aca52b01af99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\kenny\examples\newCatalogo\catalogoApp\Catalogo-Apps-master\CatalogoApps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6384d3873719718a455ffff8c339584c9b07177\classes.dex" />
     </item>
 
 </items>
